@@ -1,16 +1,16 @@
-# 🚀 Superpowers Style Calculator
+# Superpowers Style Calculator
 
 A simple and powerful mortgage calculator built using a structured AI workflow inspired by Superpowers.
 
 ---
 
-## 🔥 Live Demo
+## Live Demo
 
-👉 https://mortgagerecastcalculator.org/mortgage-calculator/
+👉 [Live Mortgage Calculator](https://mortgagerecastcalculator.org/mortgage-calculator/)
 
 ---
 
-## 💡 What this project does
+## What this project does
 
 This tool helps you:
 
@@ -20,7 +20,7 @@ This tool helps you:
 
 ---
 
-## 🧠 How it was built
+## How it was built
 
 Instead of generating code directly, this project follows a structured approach:
 
@@ -51,7 +51,7 @@ This method makes the output cleaner and easier to manage.
 
 ---
 
-## 🙌 Why this project matters
+## Why this project matters
 
 Many beginners struggle with messy AI-generated code.
 
